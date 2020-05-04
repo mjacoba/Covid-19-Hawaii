@@ -1,0 +1,267 @@
+﻿Id,Date,Exposure Group,State,Confirmed Cases,Deaths,Recovered,Hospitalization 
+1,3/27/2020,Statewide,Hawaii,120,0,36,8
+2,3/27/2020,Big Island,Hawaii,7,0,,
+3,3/27/2020,Honolulu,Hawaii,87,0,,
+4,3/27/2020,Kauai,Hawaii,5,0,,
+5,3/27/2020,Maui,Hawaii,16,0,,
+6,3/27/2020,HI Residents Diagnosed Outside HI,Hawaii,2,0,0,0
+7,3/27/2020,Pending,Hawaii,3,0,0,0
+8,3/28/2020,Statewide,Hawaii,151,0,39,12
+9,3/28/2020,Big Island,Hawaii,10,0,,
+10,3/28/2020,Honolulu,Hawaii,108,0,,
+11,3/28/2020,Kauai,Hawaii,11,0,,
+12,3/28/2020,Maui,Hawaii,16,0,,
+13,3/28/2020,HI Residents Diagnosed Outside HI,Hawaii,2,0,0,0
+14,3/28/2020,Pending,Hawaii,4,0,0,0
+15,3/29/2020,Statewide,Hawaii,175,0,49,12
+16,3/29/2020,Big Island,Hawaii,12,0,,
+17,3/29/2020,Honolulu,Hawaii,123,0,,
+18,3/29/2020,Kauai,Hawaii,12,0,,
+19,3/29/2020,Maui,Hawaii,20,0,,
+20,3/29/2020,HI Residents Diagnosed Outside HI,Hawaii,2,0,0,0
+21,3/29/2020,Pending,Hawaii,6,0,0,0
+22,3/30/2020,Statewide,Hawaii,204,0,55,12
+23,3/30/2020,Big Island,Hawaii,15,0,,
+24,3/30/2020,Honolulu,Hawaii,139,0,,
+25,3/30/2020,Kauai,Hawaii,12,0,,
+26,3/30/2020,Maui,Hawaii,25,0,,
+27,3/30/2020,HI Residents Diagnosed Outside HI,Hawaii,2,0,0,0
+28,3/30/2020,Pending,Hawaii,11,0,0,0
+29,3/31/2020,Statewide,Hawaii,258,1,58,13
+30,3/31/2020,Big Island,Hawaii,18,0,,
+31,3/31/2020,Honolulu,Hawaii,182,1,,
+32,3/31/2020,Kauai,Hawaii,12,0,,
+33,3/31/2020,Maui,Hawaii,26,0,,
+34,3/31/2020,HI Residents Diagnosed Outside HI,Hawaii,2,0,0,0
+35,3/31/2020,Pending,Hawaii,18,0,0,0
+36,4/1/2020,Statewide,Hawaii,258,1,69,15
+37,4/1/2020,Big Island,Hawaii,18,0,6,
+38,4/1/2020,Honolulu,Hawaii,182,1,49,
+39,4/1/2020,Kauai,Hawaii,12,0,3,
+40,4/1/2020,Maui,Hawaii,26,0,11,
+41,4/1/2020,HI Residents Diagnosed Outside HI,Hawaii,2,0,0,0
+42,4/1/2020,Pending,Hawaii,31,0,0,0
+43,4/2/2020,Statewide,Hawaii,285,1,72,15
+44,4/2/2020,Big Island,Hawaii,18,0,6,0
+45,4/2/2020,Honolulu,Hawaii,206,1,52,14
+46,4/2/2020,Kauai,Hawaii,12,0,3,1
+47,4/2/2020,Maui,Hawaii,27,0,11,0
+48,4/2/2020,HI Residents Diagnosed Outside HI,Hawaii,2,0,0,0
+49,4/2/2020,Pending,Hawaii,20,0,0,0
+50,4/3/2020,Statewide,Hawaii,319,3,78,18
+51,4/3/2020,Big Island,Hawaii,20,0,6,0
+52,4/3/2020,Honolulu,Hawaii,237,3,57,16
+53,4/3/2020,Kauai,Hawaii,13,0,4,1
+54,4/3/2020,Maui,Hawaii,36,0,11,1
+55,4/3/2020,HI Residents Diagnosed Outside HI,Hawaii,2,0,0,0
+56,4/3/2020,Pending,Hawaii,11,0,0,0
+57,4/4/2020,Statewide,Hawaii,351,3,82,19
+58,4/4/2020,Big Island,Hawaii,22,0,6,0
+59,4/4/2020,Honolulu,Hawaii,266,3,61,17
+60,4/4/2020,Kauai,Hawaii,15,0,4,1
+61,4/4/2020,Maui,Hawaii,38,0,11,1
+62,4/4/2020,HI Residents Diagnosed Outside HI,Hawaii,2,0,0,0
+63,4/4/2020,Pending,Hawaii,8,0,0,0
+64,4/5/2020,Statewide,Hawaii,371,4,85,21
+65,4/5/2020,Big Island,Hawaii,22,0,7,0
+66,4/5/2020,Honolulu,Hawaii,281,4,63,19
+67,4/5/2020,Kauai,Hawaii,16,0,4,1
+68,4/5/2020,Maui,Hawaii,43,0,11,1
+69,4/5/2020,HI Residents Diagnosed Outside HI,Hawaii,2,0,0,0
+70,4/5/2020,Pending,Hawaii,7,0,0,0
+71,4/6/2020,Statewide,Hawaii,387,5,89,26
+72,4/6/2020,Big Island,Hawaii,23,0,9,0
+73,4/6/2020,Honolulu,Hawaii,292,4,64,21
+74,4/6/2020,Kauai,Hawaii,17,0,5,1
+75,4/6/2020,Maui,Hawaii,44,1,11,4
+76,4/6/2020,HI Residents Diagnosed Outside HI,Hawaii,2,0,0,0
+77,4/6/2020,Pending,Hawaii,9,0,0,0
+78,4/7/2020,Statewide,Hawaii,410,5,113,42
+79,4/7/2020,Big Island,Hawaii,23,0,9,0
+80,4/7/2020,Honolulu,Hawaii,312,4,83,36
+81,4/7/2020,Kauai,Hawaii,18,0,7,1
+82,4/7/2020,Maui,Hawaii,48,1,14,5
+83,4/7/2020,HI Residents Diagnosed Outside HI,Hawaii,2,0,0,0
+84,4/7/2020,Pending,Hawaii,7,0,0,0
+85,4/8/2020,Statewide,Hawaii,435,5,113,42
+86,4/8/2020,Big Island,Hawaii,26,0,9,0
+87,4/8/2020,Honolulu,Hawaii,328,4,83,36
+88,4/8/2020,Kauai,Hawaii,18,0,7,1
+89,4/8/2020,Maui,Hawaii,54,1,14,5
+90,4/8/2020,HI Residents Diagnosed Outside HI,Hawaii,2,0,0,0
+91,4/8/2020,Pending,Hawaii,7,0,0,0
+92,4/9/2020,Statewide,Hawaii,442,6,251,42
+93,4/9/2020,Big Island,Hawaii,28,0,21,0
+94,4/9/2020,Honolulu,Hawaii,334,4,188,36
+95,4/9/2020,Kauai,Hawaii,18,0,11,1
+96,4/9/2020,Maui,Hawaii,57,2,31,5
+97,4/9/2020,HI Residents Diagnosed Outside HI,Hawaii,2,0,0,0
+98,4/9/2020,Pending,Hawaii,3,0,0,0
+99,4/10/2020,Statewide,Hawaii,464,7,284,42
+100,4/10/2020,Big Island,Hawaii,31,0,21,0
+101,4/10/2020,Honolulu,Hawaii,343,5,211,36
+102,4/10/2020,Kauai,Hawaii,19,0,12,1
+103,4/10/2020,Maui,Hawaii,65,2,36,5
+104,4/10/2020,HI Residents Diagnosed Outside HI,Hawaii,2,0,0,0
+105,4/10/2020,Pending,Hawaii,4,0,0,0
+106,4/11/2020,Statewide,Hawaii,486,8,300,44
+107,4/11/2020,Big Island,Hawaii,34,0,25,0
+108,4/11/2020,Honolulu,Hawaii,348,5,223,36
+109,4/11/2020,Kauai,Hawaii,19,0,12,1
+110,4/11/2020,Maui,Hawaii,80,3,40,7
+111,4/11/2020,HI Residents Diagnosed Outside HI,Hawaii,2,0,0,0
+112,4/11/2020,Pending,Hawaii,3,0,0,0
+113,4/12/2020,Statewide,Hawaii,499,9,310,44
+114,4/12/2020,Big Island,Hawaii,39,0,27,0
+115,4/12/2020,Honolulu,Hawaii,350,6,230,36
+116,4/12/2020,Kauai,Hawaii,21,0,13,1
+117,4/12/2020,Maui,Hawaii,84,3,40,7
+118,4/12/2020,HI Residents Diagnosed Outside HI,Hawaii,2,0,0,0
+119,4/12/2020,Pending,Hawaii,3,0,0,0
+120,4/13/2020,Statewide,Hawaii,504,9,315,44
+121,4/13/2020,Big Island,Hawaii,40,0,28,0
+122,4/13/2020,Honolulu,Hawaii,352,6,233,36
+123,4/13/2020,Kauai,Hawaii,21,0,14,1
+124,4/13/2020,Maui,Hawaii,86,3,40,7
+125,4/13/2020,HI Residents Diagnosed Outside HI,Hawaii,2,0,0,0
+126,4/13/2020,Pending,Hawaii,3,0,0,0
+127,4/14/2020,Statewide,Hawaii,517,9,333,45
+128,4/14/2020,Big Island,Hawaii,41,0,29,0
+129,4/14/2020,Honolulu,Hawaii,358,6,249,37
+130,4/14/2020,Kauai,Hawaii,21,0,14,1
+131,4/14/2020,Maui,Hawaii,88,3,41,7
+132,4/14/2020,HI Residents Diagnosed Outside HI,Hawaii,6,0,0,0
+133,4/14/2020,Pending,Hawaii,3,0,0,0
+134,4/15/2020,Statewide,Hawaii,530,9,359,45
+135,4/15/2020,Big Island,Hawaii,41,0,30,0
+136,4/15/2020,Honolulu,Hawaii,369,6,271,37
+137,4/15/2020,Kauai,Hawaii,21,0,16,1
+138,4/15/2020,Maui,Hawaii,92,3,42,7
+139,4/15/2020,HI Residents Diagnosed Outside HI,Hawaii,6,0,0,0
+140,4/15/2020,Pending,Hawaii,1,0,0,0
+141,4/16/2020,Statewide,Hawaii,541,9,374,45
+142,4/16/2020,Big Island,Hawaii,41,0,30,0
+143,4/16/2020,Honolulu,Hawaii,373,6,284,37
+144,4/16/2020,Kauai,Hawaii,21,0,16,1
+145,4/16/2020,Maui,Hawaii,95,3,44,7
+146,4/16/2020,HI Residents Diagnosed Outside HI,Hawaii,6,0,0,0
+147,4/16/2020,Pending,Hawaii,5,0,0,0
+148,4/17/2020,Statewide,Hawaii,553,9,390,48
+149,4/17/2020,Big Island,Hawaii,44,0,30,0
+150,4/17/2020,Honolulu,Hawaii,380,6,292,40
+151,4/17/2020,Kauai,Hawaii,21,0,16,1
+152,4/17/2020,Maui,Hawaii,102,3,52,7
+153,4/17/2020,HI Residents Diagnosed Outside HI,Hawaii,6,0,0,0
+154,4/17/2020,Pending,Hawaii,0,0,0,0
+155,4/18/2020,Statewide,Hawaii,574,9,410,51
+156,4/18/2020,Big Island,Hawaii,61,0,33,0
+157,4/18/2020,Honolulu,Hawaii,382,6,309,43
+158,4/18/2020,Kauai,Hawaii,21,0,16,1
+159,4/18/2020,Maui,Hawaii,104,3,52,7
+160,4/18/2020,HI Residents Diagnosed Outside HI,Hawaii,6,0,0,0
+161,4/18/2020,Pending,Hawaii,0,0,0,0
+162,4/19/2020,Statewide,Hawaii,580,10,414,52
+163,4/19/2020,Big Island,Hawaii,62,0,35,0
+164,4/19/2020,Honolulu,Hawaii,385,6,309,44
+165,4/19/2020,Kauai,Hawaii,21,0,16,1
+166,4/19/2020,Maui,Hawaii,106,4,54,7
+167,4/19/2020,HI Residents Diagnosed Outside HI,Hawaii,6,0,0,0
+168,4/19/2020,Pending,Hawaii,0,0,0,0
+169,4/20/2020,Statewide,Hawaii,584,10,423,55
+170,4/20/2020,Big Island,Hawaii,64,0,38,0
+171,4/20/2020,Honolulu,Hawaii,385,6,312,47
+172,4/20/2020,Kauai,Hawaii,21,0,16,1
+173,4/20/2020,Maui,Hawaii,108,4,57,7
+174,4/20/2020,HI Residents Diagnosed Outside HI,Hawaii,6,0,0,0
+175,4/20/2020,Pending,Hawaii,0,0,0,0
+176,4/21/2020,Statewide,Hawaii,586,12,437,56
+177,4/21/2020,Big Island,Hawaii,64,0,38,0
+178,4/21/2020,Honolulu,Hawaii,385,7,322,48
+179,4/21/2020,Kauai,Hawaii,21,0,17,1
+180,4/21/2020,Maui,Hawaii,110,5,60,7
+181,4/21/2020,HI Residents Diagnosed Outside HI,Hawaii,6,0,0,0
+182,4/21/2020,Pending,Hawaii,0,0,0,0
+183,4/22/2020,Statewide,Hawaii,592,12,444,63
+184,4/22/2020,Big Island,Hawaii,67,0,38,0
+185,4/22/2020,Honolulu,Hawaii,388,7,328,53
+186,4/22/2020,Kauai,Hawaii,21,0,18,1
+187,4/22/2020,Maui,Hawaii,110,5,60,9
+188,4/22/2020,HI Residents Diagnosed Outside HI,Hawaii,6,0,0,0
+189,4/22/2020,Pending,Hawaii,0,0,0,0
+190,4/23/2020,Statewide,Hawaii,596,12,455,63
+191,4/23/2020,Big Island,Hawaii,68,0,39,0
+192,4/23/2020,Honolulu,Hawaii,389,7,337,53
+193,4/23/2020,Kauai,Hawaii,21,0,19,1
+194,4/23/2020,Maui,Hawaii,112,5,60,9
+195,4/23/2020,HI Residents Diagnosed Outside HI,Hawaii,6,0,0,0
+196,4/23/2020,Pending,Hawaii,0,0,0,0
+197,4/24/2020,Statewide,Hawaii,601,13,463,67
+198,4/24/2020,Big Island,Hawaii,69,0,40,1
+199,4/24/2020,Honolulu,Hawaii,392,8,339,53
+200,4/24/2020,Kauai,Hawaii,21,0,19,1
+201,4/24/2020,Maui,Hawaii,113,5,65,12
+202,4/24/2020,HI Residents Diagnosed Outside HI,Hawaii,6,0,0,0
+203,4/24/2020,Pending,Hawaii,0,0,0,0
+204,4/25/2020,Statewide,Hawaii,604,14,482,68
+205,4/25/2020,Big Island,Hawaii,69,0,47,1
+206,4/25/2020,Honolulu,Hawaii,395,9,343,53
+207,4/25/2020,Kauai,Hawaii,21,0,19,1
+208,4/25/2020,Maui,Hawaii,112,5,73,13
+209,4/25/2020,HI Residents Diagnosed Outside HI,Hawaii,7,0,0,0
+210,4/25/2020,Pending,Hawaii,0,0,0,0
+211,4/26/2020,Statewide,Hawaii,606,14,488,68
+212,4/26/2020,Big Island,Hawaii,70,0,49,1
+213,4/26/2020,Honolulu,Hawaii,396,9,346,53
+214,4/26/2020,Kauai,Hawaii,21,0,19,1
+215,4/26/2020,Maui,Hawaii,112,5,74,13
+216,4/26/2020,HI Residents Diagnosed Outside HI,Hawaii,7,0,0,0
+217,4/26/2020,Pending,Hawaii,0,0,0,0
+218,4/27/2020,Statewide,Hawaii,607,16,493,68
+219,4/27/2020,Big Island,Hawaii,70,0,49,1
+220,4/27/2020,Honolulu,Hawaii,396,11,347,53
+221,4/27/2020,Kauai,Hawaii,21,0,19,1
+222,4/27/2020,Maui,Hawaii,113,5,78,13
+223,4/27/2020,HI Residents Diagnosed Outside HI,Hawaii,7,0,0,0
+224,4/27/2020,Pending,Hawaii,0,0,0,0
+225,4/28/2020,Statewide,Hawaii,609,16,505,69
+226,4/28/2020,Big Island,Hawaii,70,0,51,1
+227,4/28/2020,Honolulu,Hawaii,396,11,354,53
+228,4/28/2020,Kauai,Hawaii,21,0,20,1
+229,4/28/2020,Maui,Hawaii,115,5,80,14
+230,4/28/2020,HI Residents Diagnosed Outside HI,Hawaii,7,0,0,0
+231,4/28/2020,Pending,Hawaii,0,0,0,0
+232,4/29/2020,Statewide,Hawaii,613,16,516,69
+233,4/29/2020,Big Island,Hawaii,70,0,53,1
+234,4/29/2020,Honolulu,Hawaii,399,11,360,53
+235,4/29/2020,Kauai,Hawaii,21,0,20,1
+236,4/29/2020,Maui,Hawaii,115,5,83,14
+237,4/29/2020,HI Residents Diagnosed Outside HI,Hawaii,8,0,0,0
+238,4/29/2020,Pending,Hawaii,0,0,0,0
+239,4/30/2020,Statewide,Hawaii,618,16,526,70
+240,4/30/2020,Big Island,Hawaii,73,0,58,1
+241,4/30/2020,Honolulu,Hawaii,399,11,364,53
+242,4/30/2020,Kauai,Hawaii,21,0,20,1
+243,4/30/2020,Maui,Hawaii,116,5,84,14
+244,4/30/2020,HI Residents Diagnosed Outside HI,Hawaii,9,0,0,1
+245,4/30/2020,Pending,Hawaii,0,0,0,0
+246,5/1/2020,Statewide,Hawaii,619,16,532,72
+247,5/1/2020,Big Island,Hawaii,73,0,60,1
+248,5/1/2020,Honolulu,Hawaii,400,11,368,53
+249,5/1/2020,Kauai,Hawaii,21,0,20,1
+250,5/1/2020,Maui,Hawaii,116,5,84,16
+251,5/1/2020,HI Residents Diagnosed Outside HI,Hawaii,9,0,0,1
+252,5/1/2020,Pending,Hawaii,0,0,0,0
+253,5/2/2020,Statewide,Hawaii,620,16,541,72
+254,5/2/2020,Big Island,Hawaii,73,0,63,1
+255,5/2/2020,Honolulu,Hawaii,400,11,371,53
+256,5/2/2020,Kauai,Hawaii,21,0,20,1
+257,5/2/2020,Maui,Hawaii,117117,5,87,16
+258,5/2/2020,HI Residents Diagnosed Outside HI,Hawaii,9,0,0,1
+259,5/2/2020,Pending,Hawaii,0,0,0,0
+260,5/3/2020,Statewide,Hawaii,620,17,544,73
+261,5/3/2020,Big Island,Hawaii,74,0,63,1
+262,5/3/2020,Honolulu,Hawaii,400,11,373,53
+263,5/3/2020,Kauai,Hawaii,21,0,20,1
+264,5/3/2020,Maui,Hawaii,116,6,88,17
+265,5/3/2020,HI Residents Diagnosed Outside HI,Hawaii,9,0,0,1
+266,5/3/2020,Pending,Hawaii,0,0,0,0
